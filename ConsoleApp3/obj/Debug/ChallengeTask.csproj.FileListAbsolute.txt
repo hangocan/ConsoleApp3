@@ -1,0 +1,7 @@
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ChallengeTask.csprojAssemblyReference.cache
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ChallengeTask.csproj.CoreCompileInputs.cache
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\Kanari\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ConvertedNumbers>
+  <NumberPair>
+    <DecimalNumber>10</DecimalNumber>
+    <HexadecimalNumber>A</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>20</DecimalNumber>
+    <HexadecimalNumber>14</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>30</DecimalNumber>
+    <HexadecimalNumber>1E</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>40</DecimalNumber>
+    <HexadecimalNumber>28</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>50</DecimalNumber>
+    <HexadecimalNumber>32</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>60</DecimalNumber>
+    <HexadecimalNumber>3C</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>70</DecimalNumber>
+    <HexadecimalNumber>46</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>80</DecimalNumber>
+    <HexadecimalNumber>50</HexadecimalNumber>
+  </NumberPair>
+  <NumberPair>
+    <DecimalNumber>90</DecimalNumber>
+    <HexadecimalNumber>5A</HexadecimalNumber>
+  </NumberPair>
+</ConvertedNumbers>
